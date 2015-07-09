@@ -1,0 +1,118 @@
+[
+    {
+        "keywords": {
+            "tree": "0.75026"
+        }, 
+        "descriptor": {
+            "duration": 6.4, 
+            "bit_rate": 1321938, 
+            "frame_mode": "RGB", 
+            "frame_size": [
+                128, 
+                74
+            ]
+        }, 
+        "thumbnails": [
+            "export/cartoon-bunny-0.jpeg", 
+            "export/cartoon-bunny-3.jpeg"
+        ], 
+        "video_location": "import/cartoon-bunny.mp4"
+    }, 
+    {
+        "keywords": {
+            "food": "0.5"
+        }, 
+        "descriptor": {
+            "duration": 5.833333333333333, 
+            "bit_rate": 5379338, 
+            "frame_mode": "RGB", 
+            "frame_size": [
+                128, 
+                72
+            ]
+        }, 
+        "thumbnails": [
+            "export/banana-again-0.jpeg", 
+            "export/banana-again-2.jpeg", 
+            "export/banana-again-4.jpeg"
+        ], 
+        "video_location": "import/banana-again.mp4"
+    }, 
+    {
+        "keywords": {}, 
+        "descriptor": {
+            "duration": 16.92, 
+            "bit_rate": 307200, 
+            "frame_mode": "RGB", 
+            "frame_size": [
+                128, 
+                100
+            ]
+        }, 
+        "thumbnails": [
+            "export/test-0.jpeg", 
+            "export/test-6.jpeg", 
+            "export/test-12.jpeg"
+        ], 
+        "video_location": "import/test.flv"
+    }, 
+    {
+        "keywords": {
+            "food": "0.5"
+        }, 
+        "descriptor": {
+            "duration": 5.833333333333333, 
+            "bit_rate": 5379338, 
+            "frame_mode": "RGB", 
+            "frame_size": [
+                128, 
+                72
+            ]
+        }, 
+        "thumbnails": [
+            "export/banana-test-0.jpeg", 
+            "export/banana-test-2.jpeg", 
+            "export/banana-test-4.jpeg"
+        ], 
+        "video_location": "import/banana-test.mp4"
+    }, 
+    {
+        "keywords": {}, 
+        "descriptor": {
+            "duration": 5.506999, 
+            "bit_rate": 232000, 
+            "frame_mode": "RGB", 
+            "frame_size": [
+                128, 
+                72
+            ]
+        }, 
+        "thumbnails": [
+            "export/cactus-test-0.jpeg", 
+            "export/cactus-test-2.jpeg", 
+            "export/cactus-test-4.jpeg"
+        ], 
+        "video_location": "import/cactus-test.flv"
+    }, 
+    {
+        "keywords": {
+            "city": "0.401312", 
+            "night": "0.401312"
+        }, 
+        "descriptor": {
+            "duration": 8.0, 
+            "bit_rate": 1220212, 
+            "frame_mode": "RGB", 
+            "frame_size": [
+                128, 
+                72
+            ]
+        }, 
+        "thumbnails": [
+            "export/water-leaves-0.jpeg", 
+            "export/water-leaves-3.jpeg", 
+            "export/water-leaves-6.jpeg"
+        ], 
+        "video_location": "import/water-leaves.wmv"
+    }
+]

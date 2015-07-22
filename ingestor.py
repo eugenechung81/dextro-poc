@@ -179,7 +179,7 @@ def ingest():
         # catch exceptions / retry logic later
         metas.append(generate_meta(video_filename))
     print 'Done ingesting'
-    write_json(metas, 'metas2.json')
+    write_json(metas, 'metas.json')
 
 ingest()
 

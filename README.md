@@ -1,8 +1,6 @@
-README.txt
-
 This is a Dextro POC, attempting to apply computer vision using Alchemy API.  The file is dropped in the import directory and the ingestor will generate meta tags and thumbnails with keywords generating off of the images.  
 
-TO query the image details, there are serveral exposed REST APIs -- getting all meta tags, querying based on keyword and getting count of keywords.
+To query the image details, there are serveral exposed REST APIs -- getting all meta tags, querying based on keyword and getting count of keywords.
 
 ###
 
